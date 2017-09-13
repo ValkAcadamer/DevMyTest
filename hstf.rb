@@ -52,7 +52,7 @@ while boucle_mnb == true
       puts "Erreur Inconue"
     end
   elsif mnb == 99
-    print "Text"
+    cmdebug
   else
     print "Erreur"
   end
